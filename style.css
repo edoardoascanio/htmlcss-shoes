@@ -1,0 +1,34 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+nav{
+    width: 100%;
+    height: 100px;
+    padding: 10px;
+    position: relative;
+}
+
+nav ul{
+   float: right;
+}
+
+nav li{
+    font-family: 'Bungee';
+    width: 50px;
+    height: 50px;
+    margin: 20px;
+    text-align: center;
+    line-height: 45px;
+    background-color: white;
+    border-right: 1px solid gray;
+    border-radius: 50%;
+    display: inline-block;
+}
+
+main > div{
+    width: 100%;
+    height: 100vh;
+}
