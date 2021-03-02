@@ -17,7 +17,7 @@ nav ul{
 }
 
 ul li{
-    font-family: 'Bungee';
+    font-family: 'Rubik Mono One';
     width: 50px;
     height: 50px;
     margin: 20px;
@@ -50,31 +50,31 @@ main > div{
 .shoes-one img, .shoes-two img, .shoes-three img{
     position: absolute;
     left: 50%;
-    top: 50%;
+    top: 40%;
     transform: translate(-50%, -50%);
     background-position: center;
 }
 
 p{
     text-align: center;
-    font-size: 60px;
+    font-size: 50px;
     color:yellow;
-    font-family: 'Bungee';
+    font-family: 'Rubik Mono One';
     position: absolute;
     left: 50%;
-    top: 80%;
+    top: 70%;
     transform: translate(-50%);
     line-height: 70px;
 }
 
 .shoes-three p{
     text-align: center;
-    font-size: 60px;
+    font-size: 50px;
     color:green;
-    font-family: 'Bungee';
+    font-family: 'Rubik Mono One';
     position: absolute;
     left: 50%;
-    top: 80%;
+    top: 70%;
     transform: translate(-50%);
     line-height: 70px;
 }
