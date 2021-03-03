@@ -62,7 +62,7 @@ p{
     font-family: 'Rubik Mono One';
     position: absolute;
     left: 50%;
-    top: 70%;
+    bottom: 10%;
     transform: translate(-50%);
     line-height: 70px;
 }
@@ -74,7 +74,7 @@ p{
     font-family: 'Rubik Mono One';
     position: absolute;
     left: 50%;
-    top: 70%;
+    bottom: 10%;
     transform: translate(-50%);
     line-height: 70px;
 }
